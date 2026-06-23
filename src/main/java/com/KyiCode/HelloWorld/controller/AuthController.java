@@ -26,6 +26,6 @@ public class AuthController {
         authService.createUser(registerReqDto);
     }
 
-    @PostMapping
+//    @PostMapping
 
 }
